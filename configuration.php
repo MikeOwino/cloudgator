@@ -11,7 +11,7 @@ return [
         'app_name' => 'FileGator',
         'app_version' => APP_VERSION,
         'language' => 'english',
-        'logo' => 'https://res.cloudinary.com/weknow-creators/image/upload/v1647372183/icons8-axie-infinity-100_trauzp.png',
+        'logo' => 'https://res.cloudinary.com/weknow-creators/image/upload/v1645109594/Lancola-Tech-Logo-PNG-e1629983570298_q8ataa.png',
         'upload_max_size' => 1000 * 1024 * 1024, // 1GB
         'upload_chunk_size' => 1 * 1024 * 1024, // 1MB
         'upload_simultaneous' => 3,
