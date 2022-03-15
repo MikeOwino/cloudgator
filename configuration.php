@@ -11,8 +11,8 @@ return [
         'app_name' => 'FileGator',
         'app_version' => APP_VERSION,
         'language' => 'english',
-        'logo' => 'https://filegator.io/filegator_logo.svg',
-        'upload_max_size' => 500 * 1024 * 1024, // 500MB
+        'logo' => 'https://res.cloudinary.com/weknow-creators/image/upload/v1647372183/icons8-axie-infinity-100_trauzp.png',
+        'upload_max_size' => 1000 * 1024 * 1024, // 1GB
         'upload_chunk_size' => 1 * 1024 * 1024, // 1MB
         'upload_simultaneous' => 3,
         'default_archive_name' => 'archive.zip',
